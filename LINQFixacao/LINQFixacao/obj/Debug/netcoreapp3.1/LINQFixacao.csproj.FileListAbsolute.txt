@@ -1,0 +1,11 @@
+D:\CSharpProjects\LINQFixacao\LINQFixacao\bin\Debug\netcoreapp3.1\LINQFixacao.exe
+D:\CSharpProjects\LINQFixacao\LINQFixacao\bin\Debug\netcoreapp3.1\LINQFixacao.deps.json
+D:\CSharpProjects\LINQFixacao\LINQFixacao\bin\Debug\netcoreapp3.1\LINQFixacao.runtimeconfig.json
+D:\CSharpProjects\LINQFixacao\LINQFixacao\bin\Debug\netcoreapp3.1\LINQFixacao.runtimeconfig.dev.json
+D:\CSharpProjects\LINQFixacao\LINQFixacao\bin\Debug\netcoreapp3.1\LINQFixacao.dll
+D:\CSharpProjects\LINQFixacao\LINQFixacao\bin\Debug\netcoreapp3.1\LINQFixacao.pdb
+D:\CSharpProjects\LINQFixacao\LINQFixacao\obj\Debug\netcoreapp3.1\LINQFixacao.csprojAssemblyReference.cache
+D:\CSharpProjects\LINQFixacao\LINQFixacao\obj\Debug\netcoreapp3.1\LINQFixacao.AssemblyInfoInputs.cache
+D:\CSharpProjects\LINQFixacao\LINQFixacao\obj\Debug\netcoreapp3.1\LINQFixacao.AssemblyInfo.cs
+D:\CSharpProjects\LINQFixacao\LINQFixacao\obj\Debug\netcoreapp3.1\LINQFixacao.dll
+D:\CSharpProjects\LINQFixacao\LINQFixacao\obj\Debug\netcoreapp3.1\LINQFixacao.pdb

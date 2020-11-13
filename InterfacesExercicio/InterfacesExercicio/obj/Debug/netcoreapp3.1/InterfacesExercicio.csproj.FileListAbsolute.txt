@@ -1,0 +1,11 @@
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\bin\Debug\netcoreapp3.1\InterfacesExercicio.exe
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\bin\Debug\netcoreapp3.1\InterfacesExercicio.deps.json
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\bin\Debug\netcoreapp3.1\InterfacesExercicio.runtimeconfig.json
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\bin\Debug\netcoreapp3.1\InterfacesExercicio.runtimeconfig.dev.json
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\bin\Debug\netcoreapp3.1\InterfacesExercicio.dll
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\bin\Debug\netcoreapp3.1\InterfacesExercicio.pdb
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\obj\Debug\netcoreapp3.1\InterfacesExercicio.csprojAssemblyReference.cache
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\obj\Debug\netcoreapp3.1\InterfacesExercicio.AssemblyInfoInputs.cache
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\obj\Debug\netcoreapp3.1\InterfacesExercicio.AssemblyInfo.cs
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\obj\Debug\netcoreapp3.1\InterfacesExercicio.dll
+D:\CSharpProjects\InterfacesExercicio\InterfacesExercicio\obj\Debug\netcoreapp3.1\InterfacesExercicio.pdb

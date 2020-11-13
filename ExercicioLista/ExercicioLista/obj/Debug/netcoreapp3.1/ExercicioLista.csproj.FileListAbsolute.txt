@@ -1,0 +1,11 @@
+D:\CSharpProjects\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.exe
+D:\CSharpProjects\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.deps.json
+D:\CSharpProjects\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.runtimeconfig.json
+D:\CSharpProjects\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.runtimeconfig.dev.json
+D:\CSharpProjects\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.dll
+D:\CSharpProjects\ExercicioLista\ExercicioLista\bin\Debug\netcoreapp3.1\ExercicioLista.pdb
+D:\CSharpProjects\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.csprojAssemblyReference.cache
+D:\CSharpProjects\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.AssemblyInfoInputs.cache
+D:\CSharpProjects\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.AssemblyInfo.cs
+D:\CSharpProjects\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.dll
+D:\CSharpProjects\ExercicioLista\ExercicioLista\obj\Debug\netcoreapp3.1\ExercicioLista.pdb

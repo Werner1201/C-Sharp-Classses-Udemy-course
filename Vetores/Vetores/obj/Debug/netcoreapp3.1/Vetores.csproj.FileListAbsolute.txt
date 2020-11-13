@@ -1,0 +1,11 @@
+D:\CSharpProjects\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+D:\CSharpProjects\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+D:\CSharpProjects\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+D:\CSharpProjects\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+D:\CSharpProjects\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+D:\CSharpProjects\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+D:\CSharpProjects\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csprojAssemblyReference.cache
+D:\CSharpProjects\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+D:\CSharpProjects\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+D:\CSharpProjects\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+D:\CSharpProjects\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb

@@ -1,0 +1,11 @@
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\bin\Debug\netcoreapp3.1\ExercicioClasses21.exe
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\bin\Debug\netcoreapp3.1\ExercicioClasses21.deps.json
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\bin\Debug\netcoreapp3.1\ExercicioClasses21.runtimeconfig.json
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\bin\Debug\netcoreapp3.1\ExercicioClasses21.runtimeconfig.dev.json
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\bin\Debug\netcoreapp3.1\ExercicioClasses21.dll
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\bin\Debug\netcoreapp3.1\ExercicioClasses21.pdb
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\obj\Debug\netcoreapp3.1\ExercicioClasses21.csprojAssemblyReference.cache
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\obj\Debug\netcoreapp3.1\ExercicioClasses21.AssemblyInfoInputs.cache
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\obj\Debug\netcoreapp3.1\ExercicioClasses21.AssemblyInfo.cs
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\obj\Debug\netcoreapp3.1\ExercicioClasses21.dll
+D:\CSharpProjects\ExercicioClasses21\ExercicioClasses21\obj\Debug\netcoreapp3.1\ExercicioClasses21.pdb

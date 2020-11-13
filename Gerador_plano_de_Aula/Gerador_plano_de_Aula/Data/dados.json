@@ -1,0 +1,1057 @@
+[
+  {
+    "nome": "Ensino Religioso",
+    "habilidades": [
+      {
+        "id": "(EF03ER01)",
+        "desc": "Identificar e respeitar os diferentes espaços e territórios religiosos de diferentes tradições e movimentos religiosos.",
+        "tema": "Identidades e alteridades",
+        "objDC": "Espaços e territórios religiosos"
+      },
+      {
+        "id": "(EF03ER02)",
+        "desc": "Caracterizar os espaços e territórios religiosos como locais de realização das práticas celebrativas.",
+        "tema": "Identidades e alteridades",
+        "objDC": "Espaços e territórios religiosos"
+      },
+      {
+        "id": "(EF03ER03)",
+        "desc": "Identificar e respeitar práticas celebrativas (cerimônias, orações, festividades, peregrinações, entre outras) de diferentes tradições religiosas.",
+        "tema": "Manifestações religiosas",
+        "objDC": "Práticas celebrativas"
+      },
+      {
+        "id": "(EF03ER04)",
+        "desc": "Caracterizar as práticas celebrativas como parte integrante do conjunto das manifestações religiosas de diferentes culturas e sociedades.",
+        "tema": "Manifestações religiosas",
+        "objDC": "Práticas celebrativas"
+      },
+      {
+        "id": "(EF03ER05)",
+        "desc": "Reconhecer as indumentárias (roupas, acessórios, símbolos, pinturas corporais) utilizadas em diferentes manifestações e tradições religiosas.",
+        "tema": "Manifestações religiosas",
+        "objDC": "Indumentárias religiosas"
+      },
+      {
+        "id": "(EF03ER06)",
+        "desc": "Caracterizar as indumentárias como elementos integrantes das identidades religiosas.",
+        "tema": "Manifestações religiosas",
+        "objDC": "Indumentárias religiosas"
+      }
+    ]
+  },
+  {
+    "nome": "História",
+    "habilidades": [
+      {
+        "id": "(EF03HI01)",
+        "desc": "Identificar os grupos populacionais que formam a cidade, o município e a região, as relações estabelecidas entre eles e os eventos que marcam a formação da cidade, como fenômenos migratórios (vida rural/vida urbana), desmatamentos, estabelecimento de grandes empresas etc.",
+        "tema": "As pessoas e os grupos que compõem a cidade e o município",
+        "objDC": "O “Eu”, o “Outro” e os diferentes grupos sociais e étnicos que compõem a cidade e os municípios: os desafios sociais, culturais e ambientais do lugar onde vive"
+      },
+      {
+        "id": "(EF03HI02)",
+        "desc": "Selecionar, por meio da consulta de fontes de diferentes naturezas, e registrar acontecimentos ocorridos ao longo do tempo na cidade ou região em que vive.",
+        "tema": "As pessoas e os grupos que compõem a cidade e o município",
+        "objDC": "O “Eu”, o “Outro” e os diferentes grupos sociais e étnicos que compõem a cidade e os municípios: os desafios sociais, culturais e ambientais do lugar onde vive"
+      },
+      {
+        "id": "(EF03HI03)",
+        "desc": "Identificar e comparar pontos de vista em relação a eventos significativos do local em que vive, aspectos relacionados a condições sociais e à presença de diferentes grupos sociais e culturais, com especial destaque para as culturas africanas, indígenas e de migrantes.",
+        "tema": "As pessoas e os grupos que compõem a cidade e o município",
+        "objDC": "O “Eu”, o “Outro” e os diferentes grupos sociais e étnicos que compõem a cidade e os municípios: os desafios sociais, culturais e ambientais do lugar onde vive"
+      },
+      {
+        "id": "(EF03HI04)",
+        "desc": "Identificar os patrimônios históricos e culturais de sua cidade ou região e discutir as razões culturais, sociais e políticas para que assim sejam considerados.",
+        "tema": "As pessoas e os grupos que compõem a cidade e o município",
+        "objDC": "Os patrimônios históricos e culturais da cidade e/ou do município em que vive"
+      },
+      {
+        "id": "(EF03HI05)",
+        "desc": "Identificar os marcos históricos do lugar em que vive e compreender seus significados.",
+        "tema": "O lugar em que vive",
+        "objDC": "A produção dos marcos da memória: os lugares de memória (ruas, praças, escolas, monumentos, museus etc.)"
+      },
+      {
+        "id": "(EF03HI06)",
+        "desc": "Identificar os registros de memória na cidade (nomes de ruas, monumentos, edifícios etc.), discutindo os critérios que explicam a escolha desses nomes.",
+        "tema": "O lugar em que vive",
+        "objDC": "A produção dos marcos da memória: os lugares de memória (ruas, praças, escolas, monumentos, museus etc.)"
+      },
+      {
+        "id": "(EF03HI07)",
+        "desc": "Identificar semelhanças e diferenças existentes entre comunidades de sua cidade ou região, e descrever o papel dos diferentes grupos sociais que as formam.",
+        "tema": "O lugar em que vive",
+        "objDC": "A produção dos marcos da memória: formação cultural da população"
+      },
+      {
+        "id": "(EF03HI08)",
+        "desc": "Identificar modos de vida na cidade e no campo no presente, comparando-os com os do passado.",
+        "tema": "O lugar em que vive",
+        "objDC": "A produção dos marcos da memória: a cidade e o campo, aproximações e diferenças"
+      },
+      {
+        "id": "(EF03HI09)",
+        "desc": "Mapear os espaços públicos no lugar em que vive (ruas, praças, escolas, hospitais, prédios da Prefeitura e da Câmara de Vereadores etc.) e identificar suas funções.",
+        "tema": "A noção de espaço público e privado",
+        "objDC": "A cidade, seus espaços públicos e privados e suas áreas de conservação ambiental"
+      },
+      {
+        "id": "(EF03HI10)",
+        "desc": "Identificar as diferenças entre o espaço doméstico, os espaços públicos e as áreas de conservação ambiental, compreendendo a importância dessa distinção.",
+        "tema": "A noção de espaço público e privado",
+        "objDC": "A cidade, seus espaços públicos e privados e suas áreas de conservação ambiental"
+      },
+      {
+        "id": "(EF03HI11)",
+        "desc": "Identificar diferenças entre formas de trabalho realizadas na cidade e no campo, considerando também o uso da tecnologia nesses diferentes contextos.",
+        "tema": "A noção de espaço público e privado",
+        "objDC": "A cidade e suas atividades: trabalho, cultura e lazer"
+      },
+      {
+        "id": "(EF03HI12)",
+        "desc": "Comparar as relações de trabalho e lazer do presente com as de outros tempos e espaços, analisando mudanças e permanências.",
+        "tema": "A noção de espaço público e privado",
+        "objDC": "A cidade e suas atividades: trabalho, cultura e lazer"
+      }
+    ]
+  },
+  {
+    "nome": "Geografia",
+    "habilidades": [
+      {
+        "id": "(EF03GE01)",
+        "desc": "Identificar e comparar aspectos culturais dos grupos sociais de seus lugares de vivência, seja na cidade, seja no campo.",
+        "tema": "O sujeito e seu lugar no mundo",
+        "objDC": "A cidade e o campo: aproximações e diferenças"
+      },
+      {
+        "id": "(EF03GE02)",
+        "desc": "Identificar, em seus lugares de vivência, marcas de contribuição cultural e econômica de grupos de diferentes origens.",
+        "tema": "O sujeito e seu lugar no mundo",
+        "objDC": "A cidade e o campo: aproximações e diferenças"
+      },
+      {
+        "id": "(EF03GE03)",
+        "desc": "Reconhecer os diferentes modos de vida de povos e comunidades tradicionais em distintos lugares.",
+        "tema": "O sujeito e seu lugar no mundo",
+        "objDC": "A cidade e o campo: aproximações e diferenças"
+      },
+      {
+        "id": "(EF03GE04)",
+        "desc": "Explicar como os processos naturais e históricos atuam na produção e na mudança das paisagens naturais e antrópicas nos seus lugares de vivência, comparando-os a outros lugares.",
+        "tema": "Conexões e escalas",
+        "objDC": "Paisagens naturais e antrópicas em transformação"
+      },
+      {
+        "id": "(EF03GE05)",
+        "desc": "Identificar alimentos, minerais e outros produtos cultivados e extraídos da natureza, comparando as atividades de trabalho em diferentes lugares.",
+        "tema": "Mundo do trabalho",
+        "objDC": "Matéria-prima e indústria"
+      },
+      {
+        "id": "(EF03GE06)",
+        "desc": "Identificar e interpretar imagens bidimensionais e tridimensionais em diferentes tipos de representação cartográfica.",
+        "tema": "Formas de representação e pensamento espacial",
+        "objDC": "Representações cartográficas"
+      },
+      {
+        "id": "(EF03GE07)",
+        "desc": "Reconhecer e elaborar legendas com símbolos de diversos tipos de representações em diferentes escalas cartográficas.",
+        "tema": "Formas de representação e pensamento espacial",
+        "objDC": "Representações cartográficas"
+      },
+      {
+        "id": "(EF03GE08)",
+        "desc": "Relacionar a produção de lixo doméstico ou da escola aos problemas causados pelo consumo excessivo e construir propostas para o consumo consciente, considerando a ampliação de hábitos de redução, reúso e reciclagem/ descarte de materiais consumidos em casa, na escola e/ou no entorno.",
+        "tema": "Natureza, ambientes e qualidade de vida",
+        "objDC": "Produção, circulação e consumo"
+      },
+      {
+        "id": "(EF03GE09)",
+        "desc": "Investigar os usos dos recursos naturais, com destaque para os usos da água em atividades cotidianas (alimentação, higiene, cultivo de plantas etc.), e discutir os problemas ambientais provocados por esses usos.",
+        "tema": "Natureza, ambientes e qualidade de vida",
+        "objDC": "Impactos das atividades humanas"
+      },
+      {
+        "id": "(EF03GE10)",
+        "desc": "Identificar os cuidados necessários para utilização da água na agricultura e na geração de energia de modo a garantir a manutenção do provimento de água potável.",
+        "tema": "Natureza, ambientes e qualidade de vida",
+        "objDC": "Impactos das atividades humanas"
+      },
+      {
+        "id": "(EF03GE11)",
+        "desc": "Comparar impactos das atividades econômicas urbanas e rurais sobre o ambiente físico natural, assim como os riscos provenientes do uso de ferramentas e máquinas.",
+        "tema": "Natureza, ambientes e qualidade de vida",
+        "objDC": "Impactos das atividades humanas"
+      }
+    ]
+  },
+  {
+    "nome": "Ciências",
+    "habilidades": [
+      {
+        "id": "(EF03CI01)",
+        "desc": "Produzir diferentes sons a partir da vibração de variados objetos e identificar variáveis que influem nesse fenômeno.",
+        "tema": "Matéria e energia",
+        "objDC": "Produção de som, Efeitos da luz nos materiais, Saúde auditiva e visual"
+      },
+      {
+        "id": "(EF03CI02)",
+        "desc": "Experimentar e relatar o que ocorre com a passagem da luz através de objetos transparentes (copos, janelas de vidro, lentes, prismas, água etc.), no contato com superfícies polidas (espelhos) e na intersecção com objetos opacos (paredes, pratos, pessoas e outros objetos de uso cotidiano).",
+        "tema": "Matéria e energia",
+        "objDC": "Produção de som, Efeitos da luz nos materiais, Saúde auditiva e visual"
+      },
+      {
+        "id": "(EF03CI03)",
+        "desc": "Discutir hábitos necessários para a manutenção da saúde auditiva e visual considerando as condições do ambiente em termos de som e luz.",
+        "tema": "Matéria e energia",
+        "objDC": "Produção de som, Efeitos da luz nos materiais, Saúde auditiva e visual"
+      },
+      {
+        "id": "(EF03CI04)",
+        "desc": "Identificar características sobre o modo de vida (o que comem, como se reproduzem, como se deslocam etc.) dos animais mais comuns no ambiente próximo.",
+        "tema": "Vida e evolução",
+        "objDC": "Características e desenvolvimento dos animais"
+      },
+      {
+        "id": "(EF03CI05)",
+        "desc": "Descrever e comunicar as alterações que ocorrem desde o nascimento em animais de diferentes meios terrestres ou aquáticos, inclusive o homem.",
+        "tema": "Vida e evolução",
+        "objDC": "Características e desenvolvimento dos animais"
+      },
+      {
+        "id": "(EF03CI06)",
+        "desc": "Comparar alguns animais e organizar grupos com base em características externas comuns (presença de penas, pelos, escamas, bico, garras, antenas, patas etc.).",
+        "tema": "Vida e evolução",
+        "objDC": "Características e desenvolvimento dos animais"
+      },
+      {
+        "id": "(EF03CI07)",
+        "desc": "Identificar características da Terra (como seu formato esférico, a presença de água, solo etc.), com base na observação, manipulação e comparação de diferentes formas de representação do planeta (mapas, globos, fotografias etc.).",
+        "tema": "Terra e Universo",
+        "objDC": "Características da Terra, Observação do céu,Usos do solo"
+      },
+      {
+        "id": "(EF03CI08)",
+        "desc": "Observar, identificar e registrar os períodos diários (dia e/ou noite) em que o Sol, demais estrelas, Lua e planetas estão visíveis no céu.",
+        "tema": "Terra e Universo",
+        "objDC": "Características da Terra, Observação do céu,Usos do solo"
+      },
+      {
+        "id": "(EF03CI09)",
+        "desc": "Comparar diferentes amostras de solo do entorno da escola com base em características como cor, textura, cheiro, tamanho das partículas, permeabilidade etc.",
+        "tema": "Terra e Universo",
+        "objDC": "Características da Terra, Observação do céu,Usos do solo"
+      },
+      {
+        "id": "(EF03CI10)",
+        "desc": "Identificar os diferentes usos do solo (plantação e extração de materiais, dentre outras possibilidades), reconhecendo a importância do solo para a agricultura e para a vida.",
+        "tema": "Terra e Universo",
+        "objDC": "Características da Terra, Observação do céu,Usos do solo"
+      }
+    ]
+  },
+  {
+    "nome": "Matemática",
+    "habilidades": [
+      {
+        "id": "(EF03MA01)",
+        "desc": "Ler, escrever e comparar números naturais de até a ordem de unidade de milhar, estabelecendo relações entre os registros numéricos e em língua materna.",
+        "tema": "Números",
+        "objDC": "Leitura, escrita, comparação e ordenação de números naturais de quatro ordens"
+      },
+      {
+        "id": "(EF03MA02)",
+        "desc": "Identificar características do sistema de numeração decimal, utilizando a composição e a decomposição de número natural de até quatro ordens.",
+        "tema": "Números",
+        "objDC": "Composição e decomposição de números naturais"
+      },
+      {
+        "id": "(EF03MA03)",
+        "desc": "Construir e utilizar fatos básicos da adição e da multiplicação para o cálculo mental ou escrito.",
+        "tema": "Números",
+        "objDC": "Construção de fatos fundamentais da adição, subtração e multiplicação\nReta numérica"
+      },
+      {
+        "id": "(EF03MA04)",
+        "desc": "Estabelecer a relação entre números naturais e pontos da reta numérica para utilizá-la na ordenação dos números naturais e também na construção de fatos da adição e da subtração, relacionando-os com deslocamentos para a direita ou para a esquerda.",
+        "tema": "Números",
+        "objDC": "Construção de fatos fundamentais da adição, subtração e multiplicação\nReta numérica"
+      },
+      {
+        "id": "(EF03MA05)",
+        "desc": "Utilizar diferentes procedimentos de cálculo mental e escrito para resolver problemas significativos envolvendo adição e subtração com números naturais.",
+        "tema": "Números",
+        "objDC": "Procedimentos de cálculo (mental e escrito) com números naturais: adição e subtração"
+      },
+      {
+        "id": "(EF03MA06)",
+        "desc": "Resolver e elaborar problemas de adição e subtração com os significados de juntar, acrescentar, separar, retirar, comparar e completar quantidades, utilizando diferentes estratégias de cálculo exato ou aproximado, incluindo cálculo mental.",
+        "tema": "Números",
+        "objDC": "Problemas envolvendo significados da adição e da subtração: juntar, acrescentar, separar, retirar, comparar e completar quantidades"
+      },
+      {
+        "id": "(EF03MA07)",
+        "desc": "Resolver e elaborar problemas de multiplicação (por 2, 3, 4, 5 e 10) com os significados de adição de parcelas iguais e elementos apresentados em disposição retangular, utilizando diferentes estratégias de cálculo e registros.",
+        "tema": "Números",
+        "objDC": "Problemas envolvendo diferentes significados da multiplicação e da divisão: adição de parcelas iguais, configuração retangular, repartição em partes iguais e medida"
+      },
+      {
+        "id": "(EF03MA08)",
+        "desc": "Resolver e elaborar problemas de divisão de um número natural por outro (até 10), com resto zero e com resto diferente de zero, com os significados de repartição equitativa e de medida, por meio de estratégias e registros pessoais.",
+        "tema": "Números",
+        "objDC": "Problemas envolvendo diferentes significados da multiplicação e da divisão: adição de parcelas iguais, configuração retangular, repartição em partes iguais e medida"
+      },
+      {
+        "id": "(EF03MA09)",
+        "desc": "Associar o quociente de uma divisão com resto zero de um número natural por 2, 3, 4, 5 e 10 às ideias de metade, terça, quarta, quinta e décima partes.",
+        "tema": "Números",
+        "objDC": "Significados de metade, terça parte, quarta parte, quinta parte e décima parte"
+      },
+      {
+        "id": "(EF03MA10)",
+        "desc": "Identificar regularidades em sequências ordenadas de números naturais, resultantes da realização de adições ou subtrações sucessivas, por um mesmo número, descrever uma regra de formação da sequência e determinar elementos faltantes ou seguintes.",
+        "tema": "Álgebra",
+        "objDC": "Identificação e descrição de regularidades em sequências numéricas recursivas"
+      },
+      {
+        "id": "(EF03MA11)",
+        "desc": "Compreender a ideia de igualdade para escrever diferentes sentenças de adições ou de subtrações de dois números naturais que resultem na mesma soma ou diferença.",
+        "tema": "Álgebra",
+        "objDC": "Relação de igualdade"
+      },
+      {
+        "id": "(EF03MA12)",
+        "desc": "Descrever e representar, por meio de esboços de trajetos ou utilizando croquis e maquetes, a movimentação de pessoas ou de objetos no espaço, incluindo mudanças de direção e sentido, com base em diferentes pontos de referência.",
+        "tema": "Geometria",
+        "objDC": "Localização e movimentação: representação de objetos e pontos de referência"
+      },
+      {
+        "id": "(EF03MA13)",
+        "desc": "Associar figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera) a objetos do mundo físico e nomear essas figuras.",
+        "tema": "Geometria",
+        "objDC": "Figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera): reconhecimento, análise de características e planificações"
+      },
+      {
+        "id": "(EF03MA14)",
+        "desc": "Descrever características de algumas figuras geométricas espaciais (prismas retos, pirâmides, cilindros, cones), relacionando-as com suas planificações.",
+        "tema": "Geometria",
+        "objDC": "Figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera): reconhecimento, análise de características e planificações"
+      },
+      {
+        "id": "(EF03MA15)",
+        "desc": "Classificar e comparar figuras planas (triângulo, quadrado, retângulo, trapézio e paralelogramo) em relação a seus lados (quantidade, posições relativas e comprimento) e vértices.",
+        "tema": "Geometria",
+        "objDC": "Figuras geométricas planas (triângulo, quadrado, retângulo, trapézio e paralelogramo): reconhecimento e análise de características"
+      },
+      {
+        "id": "(EF03MA16)",
+        "desc": "Reconhecer figuras congruentes, usando sobreposição e desenhos em malhas quadriculadas ou triangulares, incluindo o uso de tecnologias digitais.",
+        "tema": "Geometria",
+        "objDC": "Congruência de figuras geométricas planas"
+      },
+      {
+        "id": "(EF03MA17)",
+        "desc": "Reconhecer que o resultado de uma medida depende da unidade de medida utilizada.",
+        "tema": "Grandezas e medidas",
+        "objDC": "Significado de medida e de unidade de medida"
+      },
+      {
+        "id": "(EF03MA18)",
+        "desc": "Escolher a unidade de medida e o instrumento mais apropriado para medições de comprimento, tempo e capacidade.",
+        "tema": "Grandezas e medidas",
+        "objDC": "Significado de medida e de unidade de medida"
+      },
+      {
+        "id": "(EF03MA19)",
+        "desc": "Estimar, medir e comparar comprimentos, utilizando unidades de medida não padronizadas e padronizadas mais usuais (metro, centímetro e milímetro) e diversos instrumentos de medida.",
+        "tema": "Grandezas e medidas",
+        "objDC": "Medidas de comprimento (unidades não convencionais e convencionais): registro, instrumentos de medida, estimativas e comparações"
+      },
+      {
+        "id": "(EF03MA20)",
+        "desc": "Estimar e medir capacidade e massa, utilizando unidades de medida não padronizadas e padronizadas mais usuais (litro, mililitro, quilograma, grama e miligrama), reconhecendo-as em leitura de rótulos e embalagens, entre outros.",
+        "tema": "Grandezas e medidas",
+        "objDC": "Medidas de capacidade e de massa (unidades não convencionais e convencionais): registro, estimativas e comparações"
+      },
+      {
+        "id": "(EF03MA21)",
+        "desc": "Comparar, visualmente ou por superposição, áreas de faces de objetos, de figuras planas ou de desenhos.",
+        "tema": "Grandezas e medidas",
+        "objDC": "Comparação de áreas por superposição"
+      },
+      {
+        "id": "(EF03MA22)",
+        "desc": "Ler e registrar medidas e intervalos de tempo, utilizando relógios (analógico e digital) para informar os horários de início e término de realização de uma atividade e sua duração.",
+        "tema": "Grandezas e medidas",
+        "objDC": "Medidas de tempo: leitura de horas em relógios digitais e analógicos, duração de eventos e reconhecimento de relações entre unidades de medida de tempo"
+      },
+      {
+        "id": "(EF03MA23)",
+        "desc": "Ler horas em relógios digitais e em relógios analógicos e reconhecer a relação entre hora e minutos e entre minuto e segundos.",
+        "tema": "Grandezas e medidas",
+        "objDC": "Medidas de tempo: leitura de horas em relógios digitais e analógicos, duração de eventos e reconhecimento de relações entre unidades de medida de tempo"
+      },
+      {
+        "id": "(EF03MA24)",
+        "desc": "Resolver e elaborar problemas que envolvam a comparação e a equivalência de valores monetários do sistema brasileiro em situações de compra, venda e troca.",
+        "tema": "Grandezas e medidas",
+        "objDC": "Sistema monetário brasileiro: estabelecimento de equivalências de um mesmo valor na utilização de diferentes cédulas e moedas"
+      },
+      {
+        "id": "(EF03MA25)",
+        "desc": "Identificar, em eventos familiares aleatórios, todos os resultados possíveis, estimando os que têm maiores ou menores chances de ocorrência.",
+        "tema": "Probabilidade e estatística",
+        "objDC": "Análise da ideia de acaso em situações do cotidiano: espaço amostral"
+      },
+      {
+        "id": "(EF03MA26)",
+        "desc": "Resolver problemas cujos dados estão apresentados em tabelas de dupla entrada, gráficos de barras ou de colunas.",
+        "tema": "Probabilidade e estatística",
+        "objDC": "Leitura, interpretação e representação de dados em tabelas de dupla entrada e gráficos de barras"
+      },
+      {
+        "id": "(EF03MA27)",
+        "desc": "Ler, interpretar e comparar dados apresentados em tabelas de dupla entrada, gráficos de barras ou de colunas, envolvendo resultados de pesquisas significativas, utilizando termos como maior e menor frequência, apropriando-se desse tipo de linguagem para compreender aspectos da realidade sociocultural significativos.",
+        "tema": "Probabilidade e estatística",
+        "objDC": "Leitura, interpretação e representação de dados em tabelas de dupla entrada e gráficos de barras"
+      },
+      {
+        "id": "(EF03MA28)",
+        "desc": "Realizar pesquisa envolvendo variáveis categóricas em um universo de até 50 elementos, organizar os dados coletados utilizando listas, tabelas simples ou de dupla entrada e representá-los em gráficos de colunas simples, com e sem uso de tecnologias digitais.",
+        "tema": "Probabilidade e estatística",
+        "objDC": "Coleta, classificação e representação de dados referentes a variáveis categóricas, por meio de tabelas e gráficos"
+      }
+    ]
+  },
+  {
+    "nome": "Artes",
+    "habilidades": [
+      {
+        "id": "(EF15AR01)",
+        "desc": "Identificar e apreciar formas distintas das artes visuais tradicionais e contemporâneas, cultivando a percepção, o imaginário, a capacidade de simbolizar e o repertório imagético.",
+        "tema": "Artes visuais",
+        "objDC": "Contextos e práticas"
+      },
+      {
+        "id": "(EF15AR02)",
+        "desc": "Explorar e reconhecer elementos constitutivos das artes visuais (ponto, linha, forma, cor, espaço, movimento etc.).",
+        "tema": "Artes visuais",
+        "objDC": "Elementos da linguagem"
+      },
+      {
+        "id": "(EF15AR03)",
+        "desc": "Reconhecer e analisar a influência de distintas matrizes estéticas e culturais das artes visuais nas manifestações artísticas das culturas locais, regionais e nacionais.",
+        "tema": "Artes visuais",
+        "objDC": "Matrizes estéticas e culturais"
+      },
+      {
+        "id": "(EF15AR04)",
+        "desc": "Experimentar diferentes formas de expressão artística (desenho, pintura, colagem, quadrinhos, dobradura, escultura, modelagem, instalação, vídeo, fotografia etc.), fazendo uso sustentável de materiais, instrumentos, recursos e técnicas convencionais e não convencionais.",
+        "tema": "Artes visuais",
+        "objDC": "Materialidades"
+      },
+      {
+        "id": "(EF15AR05)",
+        "desc": "Experimentar a criação em artes visuais de modo individual, coletivo e colaborativo, explorando diferentes espaços da escola e da comunidade.",
+        "tema": "Artes visuais",
+        "objDC": "Processos de criação"
+      },
+      {
+        "id": "(EF15AR06)",
+        "desc": "Dialogar sobre a sua criação e as dos colegas, para alcançar sentidos plurais.",
+        "tema": "Artes visuais",
+        "objDC": "Processos de criação"
+      },
+      {
+        "id": "(EF15AR07)",
+        "desc": "Reconhecer algumas categorias do sistema das artes visuais (museus, galerias, instituições, artistas, artesãos, curadores etc.).",
+        "tema": "Artes visuais",
+        "objDC": "Sistemas da linguagem"
+      },
+      {
+        "id": "(EF15AR08)",
+        "desc": "Experimentar e apreciar formas distintas de manifestações da dança presentes em diferentes contextos, cultivando a percepção, o imaginário, a capacidade de simbolizar e o repertório corporal.",
+        "tema": "Dança",
+        "objDC": "Contextos e práticas"
+      },
+      {
+        "id": "(EF15AR09)",
+        "desc": "Estabelecer relações entre as partes do corpo e destas com o todo corporal na construção do movimento dançado.",
+        "tema": "Dança",
+        "objDC": "Elementos da linguagem"
+      },
+      {
+        "id": "(EF15AR10)",
+        "desc": "Experimentar diferentes formas de orientação no espaço (deslocamentos, planos, direções, caminhos etc.) e ritmos de movimento (lento, moderado e rápido) na construção do movimento dançado.",
+        "tema": "Dança",
+        "objDC": "Elementos da linguagem"
+      },
+      {
+        "id": "(EF15AR11)",
+        "desc": "Criar e improvisar movimentos dançados de modo individual, coletivo e colaborativo, considerando os aspectos estruturais, dinâmicos e expressivos dos elementos constitutivos do movimento, com base nos códigos de dança.",
+        "tema": "Dança",
+        "objDC": "Processos de criação"
+      },
+      {
+        "id": "(EF15AR12)",
+        "desc": "Discutir, com respeito e sem preconceito, as experiências pessoais e coletivas em dança vivenciadas na escola, como fonte para a construção de vocabulários e repertórios próprios.",
+        "tema": "Dança",
+        "objDC": "Processos de criação"
+      },
+      {
+        "id": "(EF15AR13)",
+        "desc": "Identificar e apreciar criticamente diversas formas e gêneros de expressão musical, reconhecendo e analisando os usos e as funções da música em diversos contextos de circulação, em especial, aqueles da vida cotidiana.",
+        "tema": "Música",
+        "objDC": "Contextos e práticas"
+      },
+      {
+        "id": "(EF15AR14)",
+        "desc": "Perceber e explorar os elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de jogos, brincadeiras, canções e práticas diversas de composição/criação, execução e apreciação musical.",
+        "tema": "Música",
+        "objDC": "Elementos da linguagem"
+      },
+      {
+        "id": "(EF15AR15)",
+        "desc": "Explorar fontes sonoras diversas, como as existentes no próprio corpo (palmas, voz, percussão corporal), na natureza e em objetos cotidianos, reconhecendo os elementos constitutivos da música e as características de instrumentos musicais variados.",
+        "tema": "Música",
+        "objDC": "Materialidades"
+      },
+      {
+        "id": "(EF15AR16)",
+        "desc": "Explorar diferentes formas de registro musical não convencional (representação gráfica de sons, partituras criativas etc.), bem como procedimentos e técnicas de registro em áudio e audiovisual, e reconhecer a notação musical convencional.",
+        "tema": "Música",
+        "objDC": "Notação e registro musical"
+      },
+      {
+        "id": "(EF15AR17)",
+        "desc": "Experimentar improvisações, composições e sonorização de histórias, entre outros, utilizando vozes, sons corporais e/ou instrumentos musicais convencionais ou não convencionais, de modo individual, coletivo e colaborativo.",
+        "tema": "Música",
+        "objDC": "Processos de criação"
+      },
+      {
+        "id": "(EF15AR18)",
+        "desc": "Reconhecer e apreciar formas distintas de manifestações do teatro presentes em diferentes contextos, aprendendo a ver e a ouvir histórias dramatizadas e cultivando a percepção, o imaginário, a capacidade de simbolizar e o repertório ficcional.",
+        "tema": "Teatro",
+        "objDC": "Contextos e práticas"
+      },
+      {
+        "id": "(EF15AR19)",
+        "desc": "Descobrir teatralidades na vida cotidiana, identificando elementos teatrais (variadas entonações de voz, diferentes fisicalidades, diversidade de personagens e narrativas etc.).",
+        "tema": "Teatro",
+        "objDC": "Elementos da linguagem"
+      },
+      {
+        "id": "(EF15AR20)",
+        "desc": "Experimentar o trabalho colaborativo, coletivo e autoral em improvisações teatrais e processos narrativos criativos em teatro, explorando desde a teatralidade dos gestos e das ações do cotidiano até elementos de diferentes matrizes estéticas e culturais.",
+        "tema": "Teatro",
+        "objDC": "Processos de criação"
+      },
+      {
+        "id": "(EF15AR21)",
+        "desc": "Exercitar a imitação e o faz de conta, ressignificando objetos e fatos e experimentando-se no lugar do outro, ao compor e encenar acontecimentos cênicos, por meio de músicas, imagens, textos ou outros pontos de partida, de forma intencional e reflexiva.",
+        "tema": "Teatro",
+        "objDC": "Processos de criação"
+      },
+      {
+        "id": "(EF15AR22)",
+        "desc": "Experimentar possibilidades criativas de movimento e de voz na criação de um personagem teatral, discutindo estereótipos.",
+        "tema": "Teatro",
+        "objDC": "Processos de criação"
+      },
+      {
+        "id": "(EF15AR23)",
+        "desc": "Reconhecer e experimentar, em projetos temáticos, as relações processuais entre diversas linguagens artísticas.",
+        "tema": "Artes integradas",
+        "objDC": "Processos de criação"
+      },
+      {
+        "id": "(EF15AR24)",
+        "desc": "Caracterizar e experimentar brinquedos, brincadeiras, jogos, danças, canções e histórias de diferentes matrizes estéticas e culturais.",
+        "tema": "Artes integradas",
+        "objDC": "Matrizes estéticas e culturais"
+      },
+      {
+        "id": "(EF15AR25)",
+        "desc": "Conhecer e valorizar o patrimônio cultural, material e imaterial, de culturas diversas, em especial a brasileira, incluindo-se suas matrizes indígenas, africanas e europeias, de diferentes épocas, favorecendo a construção de vocabulário e repertório relativos às diferentes linguagens artísticas.",
+        "tema": "Artes integradas",
+        "objDC": "Patrimônio cultural"
+      },
+      {
+        "id": "(EF15AR26)",
+        "desc": "Explorar diferentes tecnologias e recursos digitais (multimeios, animações, jogos eletrônicos, gravações em áudio e vídeo, fotografia, softwares etc.) nos processos de criação artística.",
+        "tema": "Artes integradas",
+        "objDC": "Arte e tecnologia"
+      }
+    ]
+  },
+  {
+    "nome": "Língua Portuguesa",
+    "habilidades": [
+      {
+        "id": "(EF15LP01)",
+        "desc": "Identificar a função social de textos que circulam em campos da vida social dos quais participa cotidianamente (a casa, a rua, a comunidade, a escola) e nas mídias impressa, de massa e digital, reconhecendo para que foram produzidos, onde circulam, quem os produziu e a quem se destinam.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Reconstrução das condições de produção e recepção de textos"
+      },
+      {
+        "id": "(EF15LP02)",
+        "desc": "Estabelecer expectativas em relação ao texto que vai ler (pressuposições antecipadoras dos sentidos, da forma e da função social do texto), apoiando-se em seus conhecimentos prévios sobre as condições de produção e recepção desse texto, o gênero, o suporte e o universo temático, bem como sobre saliências textuais, recursos gráficos, imagens, dados da própria obra (índice, prefácio etc.), confirmando antecipações e inferências realizadas antes e durante a leitura de textos, checando a adequação das hipóteses realizadas.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Estratégia de leitura"
+      },
+      {
+        "id": "(EF15LP03)",
+        "desc": "Localizar informações explícitas em textos.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Estratégia de leitura"
+      },
+      {
+        "id": "(EF15LP04)",
+        "desc": "Identificar o efeito de sentido produzido pelo uso de recursos expressivos gráfico-visuais em textos multissemióticos.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Estratégia de leitura"
+      },
+      {
+        "id": "(EF15LP05)",
+        "desc": "Planejar, com a ajuda do professor, o texto que será produzido, considerando a situação comunicativa, os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular); o suporte (qual é o portador do texto); a linguagem, organização e forma do texto e seu tema, pesquisando em meios impressos ou digitais, sempre que for preciso, informações necessárias à produção do texto, organizando em tópicos os dados e as fontes pesquisadas.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Planejamento de texto"
+      },
+      {
+        "id": "(EF15LP06)",
+        "desc": "Reler e revisar o texto produzido com a ajuda do professor e a colaboração dos colegas, para corrigi-lo e aprimorá-lo, fazendo cortes, acréscimos, reformulações, correções de ortografia e pontuação.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Revisão de textos"
+      },
+      {
+        "id": "(EF15LP07)",
+        "desc": "Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Edição de textos"
+      },
+      {
+        "id": "(EF15LP08)",
+        "desc": "Utilizar software, inclusive programas de edição de texto, para editar e publicar os textos produzidos, explorando os recursos multissemióticos disponíveis.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Utilização de tecnologia digital"
+      },
+      {
+        "id": "(EF15LP09)",
+        "desc": "Expressar-se em situações de intercâmbio oral com clareza, preocupando-se em ser compreendido pelo interlocutor e usando a palavra com tom de voz audível, boa articulação e ritmo adequado.",
+        "tema": "Oralidade",
+        "objDC": "Oralidade pública/Intercâmbio conversacional em sala de aula"
+      },
+      {
+        "id": "(EF15LP10)",
+        "desc": "Escutar, com atenção, falas de professores e colegas, formulando perguntas pertinentes ao tema e solicitando esclarecimentos sempre que necessário.",
+        "tema": "Oralidade",
+        "objDC": "Escuta atenta"
+      },
+      {
+        "id": "(EF15LP11)",
+        "desc": "Reconhecer características da conversação espontânea presencial, respeitando os turnos de fala, selecionando e utilizando, durante a conversação, formas de tratamento adequadas, de acordo com a situação e a posição do interlocutor.",
+        "tema": "Oralidade",
+        "objDC": "Características da conversação espontânea"
+      },
+      {
+        "id": "(EF15LP12)",
+        "desc": "Atribuir significado a aspectos não linguísticos (paralinguísticos) observados na fala, como direção do olhar, riso, gestos, movimentos da cabeça (de concordância ou discordância), expressão corporal, tom de voz.",
+        "tema": "Oralidade",
+        "objDC": "Aspectos não linguísticos (paralinguísticos) no ato da fala"
+      },
+      {
+        "id": "(EF15LP13)",
+        "desc": "Identificar finalidades da interação oral em diferentes contextos comunicativos (solicitar informações, apresentar opiniões, informar, relatar experiências etc.).",
+        "tema": "Oralidade",
+        "objDC": "Relato oral/Registro formal e informal"
+      },
+      {
+        "id": "(EF15LP14)",
+        "desc": "Construir o sentido de histórias em quadrinhos e tirinhas, relacionando imagens e palavras e interpretando recursos gráficos (tipos de balões, de letras, onomatopeias).",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Leitura de imagens em narrativas visuais"
+      },
+      {
+        "id": "(EF15LP15)",
+        "desc": "Reconhecer que os textos literários fazem parte do mundo do imaginário e apresentam uma dimensão lúdica, de encantamento, valorizando-os, em sua diversidade cultural, como patrimônio artístico da humanidade.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Formação do leitor literário"
+      },
+      {
+        "id": "(EF15LP16)",
+        "desc": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor e, mais tarde, de maneira autônoma, textos narrativos de maior porte como contos (populares, de fadas, acumulativos, de assombração etc.) e crônicas.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Leitura colaborativa e autônoma"
+      },
+      {
+        "id": "(EF15LP17)",
+        "desc": "Apreciar poemas visuais e concretos, observando efeitos de sentido criados pelo formato do texto na página, distribuição e diagramação das letras, pelas ilustrações e por outros efeitos visuais.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Apreciação estética/Estilo"
+      },
+      {
+        "id": "(EF15LP18)",
+        "desc": "Relacionar texto com ilustrações e outros recursos gráficos.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Formação do leitor literário/Leitura multissemiótica"
+      },
+      {
+        "id": "(EF15LP19)",
+        "desc": "Recontar oralmente, com e sem apoio de imagem, textos literários lidos pelo professor.",
+        "tema": "Oralidade",
+        "objDC": "Contagem de histórias"
+      },
+      {
+        "id": "(EF03LP01)",
+        "desc": "Ler e escrever palavras com correspondências regulares contextuais entre grafemas e fonemas – c/qu; g/gu; r/rr; s/ss; o (e não u) e e (e não i) em sílaba átona em final de palavra – e com marcas de nasalidade (til, m, n).",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Construção do sistema alfabético e da ortografia"
+      },
+      {
+        "id": "(EF03LP02)",
+        "desc": "Ler e escrever corretamente palavras com sílabas CV, V, CVC, CCV, VC, VV, CVV, identificando que existem vogais em todas as sílabas.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Construção do sistema alfabético e da ortografia"
+      },
+      {
+        "id": "(EF03LP03)",
+        "desc": "Ler e escrever corretamente palavras com os dígrafos lh, nh, ch.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Construção do sistema alfabético e da ortografia"
+      },
+      {
+        "id": "(EF03LP04)",
+        "desc": "Usar acento gráfico (agudo ou circunflexo) em monossílabos tônicos terminados em a, e, o e em palavras oxítonas terminadas em a, e, o, seguidas ou não de s.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Conhecimento das diversas grafias do alfabeto/ Acentuação"
+      },
+      {
+        "id": "(EF03LP05)",
+        "desc": "Identificar o número de sílabas de palavras, classificando-as em monossílabas, dissílabas, trissílabas e polissílabas.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Segmentação de palavras/Classificação de palavras por número de sílabas"
+      },
+      {
+        "id": "(EF03LP06)",
+        "desc": "Identificar a sílaba tônica em palavras, classificando-as em oxítonas, paroxítonas e proparoxítonas.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Construção do sistema alfabético"
+      },
+      {
+        "id": "(EF03LP07)",
+        "desc": "Identificar a função na leitura e usar na escrita ponto final, ponto de interrogação, ponto de exclamação e, em diálogos (discurso direto), dois-pontos e travessão.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Pontuação"
+      },
+      {
+        "id": "(EF03LP08)",
+        "desc": "Identificar e diferenciar, em textos, substantivos e verbos e suas funções na oração: agente, ação, objeto da ação.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Morfologia"
+      },
+      {
+        "id": "(EF03LP09)",
+        "desc": "Identificar, em textos, adjetivos e sua função de atribuição de propriedades aos substantivos.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Morfossintaxe"
+      },
+      {
+        "id": "(EF03LP10)",
+        "desc": "Reconhecer prefixos e sufixos produtivos na formação de palavras derivadas de substantivos, de adjetivos e de verbos, utilizando-os para compreender palavras e para formar novas palavras.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Morfologia"
+      },
+      {
+        "id": "(EF03LP11)",
+        "desc": "Ler e compreender, com autonomia, textos injuntivos instrucionais (receitas, instruções de montagem etc.), com a estrutura própria desses textos (verbos imperativos, indicação de passos a ser seguidos) e mesclando palavras, imagens e recursos gráfico- visuais, considerando a situação comunicativa e o tema/assunto do texto.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Compreensão em leitura"
+      },
+      {
+        "id": "(EF03LP12)",
+        "desc": "Ler e compreender, com autonomia, cartas pessoais e diários, com expressão de sentimentos e opiniões, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero carta e considerando a situação comunicativa e o tema/assunto do texto.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Compreensão em leitura"
+      },
+      {
+        "id": "(EF03LP13)",
+        "desc": "Planejar e produzir cartas pessoais e diários, com expressão de sentimentos e opiniões, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções dos gêneros carta e diário e considerando a situação comunicativa e o tema/assunto do texto.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Escrita colaborativa"
+      },
+      {
+        "id": "(EF03LP14)",
+        "desc": "Planejar e produzir textos injuntivos instrucionais, com a estrutura própria desses textos (verbos imperativos, indicação de passos a ser seguidos) e mesclando palavras, imagens e recursos gráfico-visuais, considerando a situação comunicativa e o tema/ assunto do texto.",
+        "tema": "Escrita\n(compartilhada e autônoma)",
+        "objDC": "Escrita colaborativa"
+      },
+      {
+        "id": "(EF03LP15)",
+        "desc": "Assistir, em vídeo digital, a programa de culinária infantil e, a partir dele, planejar e produzir receitas em áudio ou vídeo.",
+        "tema": "Oralidade",
+        "objDC": "Produção de texto oral"
+      },
+      {
+        "id": "(EF03LP16)",
+        "desc": "Identificar e reproduzir, em textos injuntivos instrucionais (receitas, instruções de montagem, digitais ou impressos), a formatação própria desses textos (verbos imperativos, indicação de passos a ser seguidos) e a diagramação específica dos textos desses gêneros (lista de ingredientes ou materiais e instruções de execução – \"modo de fazer\").",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Forma de composição do texto"
+      },
+      {
+        "id": "(EF03LP17)",
+        "desc": "Identificar e reproduzir, em gêneros epistolares e diários, a formatação própria desses textos (relatos de acontecimentos, expressão de vivências, emoções, opiniões ou críticas) e a diagramação específica dos textos desses gêneros (data, saudação, corpo do texto, despedida, assinatura).",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Forma de composição do texto"
+      },
+      {
+        "id": "(EF03LP18)",
+        "desc": "Ler e compreender, com autonomia, cartas dirigidas a veículos da mídia impressa ou digital (cartas de leitor e de reclamação a jornais, revistas) e notícias, dentre outros gêneros do campo jornalístico, de acordo com as convenções do gênero carta e considerando a situação comunicativa e o tema/assunto do texto.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Compreensão em leitura"
+      },
+      {
+        "id": "(EF03LP19)",
+        "desc": "Identificar e discutir o propósito do uso de recursos de persuasão (cores, imagens, escolha de palavras, jogo de palavras, tamanho de letras) em textos publicitários e de propaganda, como elementos de convencimento.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Compreensão em leitura"
+      },
+      {
+        "id": "(EF03LP20)",
+        "desc": "Produzir cartas dirigidas a veículos da mídia impressa ou digital (cartas do leitor ou de reclamação a jornais ou revistas), dentre outros gêneros do campopo lítico-cidadão, com opiniões e críticas, de acordo com as convenções do gênero carta e considerando a situação comunicativa e o tema/assunto do texto.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Escrita colaborativa"
+      },
+      {
+        "id": "(EF03LP21)",
+        "desc": "Produzir anúncios publicitários, textos de campanhas de conscientização destinados ao público infantil, observando os recursos de persuasão utilizados nos textos publicitários e de propaganda (cores, imagens, slogan, escolha de palavras, jogo de palavras, tamanho e tipo de letras, diagramação).",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Escrita colaborativa"
+      },
+      {
+        "id": "(EF03LP22)",
+        "desc": "Planejar e produzir, em colaboração com os colegas, telejornal para público infantil com algumas notícias e textos de campanhas que possam ser repassados oralmente ou em meio digital, em áudio ou vídeo, considerando a situação comunicativa, a organização específica da fala nesses gêneros e o tema/assunto/ finalidade dos textos.",
+        "tema": "Oralidade",
+        "objDC": "Planejamento e produção de texto"
+      },
+      {
+        "id": "(EF03LP23)",
+        "desc": "Analisar o uso de adjetivos em cartas dirigidas a veículos da mídia impressa ou digital (cartas do leitor ou de reclamação a jornais ou revistas), digitais ou impressas.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Forma de composição dos textos"
+      },
+      {
+        "id": "(EF03LP24)",
+        "desc": "Ler/ouvir e compreender, com autonomia, relatos de observações e de pesquisas em fontes de informações, considerando a situação comunicativa e o tema/assunto do texto.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Compreensão em leitura"
+      },
+      {
+        "id": "(EF03LP25)",
+        "desc": "Planejar e produzir textos para apresentar resultados de observações e de pesquisas em fontes de informações, incluindo, quando pertinente, imagens, diagramas e gráficos ou tabelas simples, considerando a situação comunicativa e o tema/assunto do texto.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Produção de textos"
+      },
+      {
+        "id": "(EF03LP26)",
+        "desc": "Identificar e reproduzir, em relatórios de observação e pesquisa, a formatação e diagramação específica desses gêneros (passos ou listas de itens, tabelas, ilustrações, gráficos, resumo dos resultados), inclusive em suas versões orais.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Forma de composição dos textos\nAdequação do texto às normas de escrita"
+      },
+      {
+        "id": "(EF03LP27)",
+        "desc": "Recitar cordel e cantar repentes e emboladas, observando as rimas e obedecendo ao ritmo e à melodia.",
+        "tema": "Oralidade",
+        "objDC": "Performances orais"
+      },
+      {
+        "id": "(EF35LP01)",
+        "desc": "Ler e compreender, silenciosamente e, em seguida, em voz alta, com autonomia e fluência, textos curtos com nível de textualidade adequado.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Decodificação/Fluência de leitura"
+      },
+      {
+        "id": "(EF35LP02)",
+        "desc": "Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião, após a leitura.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Formação de leitor"
+      },
+      {
+        "id": "(EF35LP03)",
+        "desc": "Identificar a ideia central do texto, demonstrando compreensão global.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Compreensão"
+      },
+      {
+        "id": "(EF35LP04)",
+        "desc": "Inferir informações implícitas nos textos lidos.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Estratégia de leitura"
+      },
+      {
+        "id": "(EF35LP05)",
+        "desc": "Inferir o sentido de palavras ou expressões desconhecidas em textos, com base no contexto da frase ou do texto.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Estratégia de leitura"
+      },
+      {
+        "id": "(EF35LP06)",
+        "desc": "Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos – pessoais, possessivos, demonstrativos) que contribuem para a continuidade do texto.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Estratégia de leitura"
+      },
+      {
+        "id": "(EF35LP07)",
+        "desc": "Utilizar, ao produzir um texto, conhecimentos linguísticos e gramaticais, tais como ortografia, regras básicas de concordância nominal e verbal, pontuação (ponto final, ponto de exclamação, ponto de interrogação, vírgulas em enumerações) e pontuação do discurso direto, quando for o caso.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Construção do sistema alfabético/ Convenções da escrita"
+      },
+      {
+        "id": "(EF35LP08)",
+        "desc": "Utilizar, ao produzir um texto, recursos de referenciação (por substituição lexical ou por pronomes pessoais, possessivos e demonstrativos), vocabulário apropriado ao gênero, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível suficiente de informatividade.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Construção do sistema alfabético/ Estabelecimento de relações anafóricas na referenciação e construção da coesão"
+      },
+      {
+        "id": "(EF35LP09)",
+        "desc": "Organizar o texto em unidades de sentido, dividindo-o em parágrafos segundo as normas gráficas e de acordo com as características do gênero textual.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Planejamento de texto/Progressão temática e paragrafação"
+      },
+      {
+        "id": "(EF35LP10)",
+        "desc": "Identificar gêneros do discurso oral, utilizados em diferentes situações e contextos comunicativos, e suas características linguístico-expressivas e composicionais (conversação espontânea, conversação telefônica, entrevistas pessoais, entrevistas no rádio ou na TV, debate, noticiário de rádio e TV, narração de jogos esportivos no rádio e TV, aula, debate etc.).",
+        "tema": "Oralidade",
+        "objDC": "Forma de composição de gêneros orais"
+      },
+      {
+        "id": "(EF35LP11)",
+        "desc": "Ouvir gravações, canções, textos falados em diferentes variedades linguísticas, identificando características regionais, urbanas e rurais da fala e respeitando as diversas variedades linguísticas como características do uso da língua por diferentes grupos regionais ou diferentes culturas locais, rejeitando preconceitos linguísticos.",
+        "tema": "Oralidade",
+        "objDC": "Variação linguística"
+      },
+      {
+        "id": "(EF35LP12)",
+        "desc": "Recorrer ao dicionário para esclarecer dúvida sobre a escrita de palavras, especialmente no caso de palavras com relações irregulares fonema-grafema.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Construção do sistema alfabético e da ortografia"
+      },
+      {
+        "id": "(EF35LP13)",
+        "desc": "Memorizar a grafia de palavras de uso frequente nas quais as relações fonema-grafema são irregulares e com h inicial que não representa fonema.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Construção do sistema alfabético e da ortografia"
+      },
+      {
+        "id": "(EF35LP14)",
+        "desc": "Identificar em textos e usar na produção textual pronomes pessoais, possessivos e demonstrativos, como recurso coesivo anafórico.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Morfologia"
+      },
+      {
+        "id": "(EF35LP15)",
+        "desc": "Opinar e defender ponto de vista sobre tema polêmico relacionado a situações vivenciadas na escola e/ou na comunidade, utilizando registro formal e estrutura adequada à argumentação, considerando a situação comunicativa e o tema/assunto do texto.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Escrita colaborativa"
+      },
+      {
+        "id": "(EF35LP16)",
+        "desc": "Identificar e reproduzir, em notícias, manchetes, lides e corpo de notícias simples para público infantil e cartas de reclamação (revista infantil), digitais ou impressos, a formatação e diagramação específica de cada um desses gêneros, inclusive em suas versões orais.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Forma de composição dos textos"
+      },
+      {
+        "id": "(EF35LP17)",
+        "desc": "Buscar e selecionar, com o apoio do professor, informações de interesse sobre fenômenos sociais e naturais, em textos que circulam em meios impressos ou digitais.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Pesquisa"
+      },
+      {
+        "id": "(EF35LP18)",
+        "desc": "Escutar, com atenção, apresentações de trabalhos realizadas por colegas, formulando perguntas pertinentes ao tema e solicitando esclarecimentos sempre que necessário.",
+        "tema": "Oralidade",
+        "objDC": "Escuta de textos orais"
+      },
+      {
+        "id": "(EF35LP19)",
+        "desc": "Recuperar as ideias principais em situações formais de escuta de exposições, apresentações e palestras.",
+        "tema": "Oralidade",
+        "objDC": "Compreensão de textos orais"
+      },
+      {
+        "id": "(EF35LP20)",
+        "desc": "Expor trabalhos ou pesquisas escolares, em sala de aula, com apoio de recursos multissemióticos (imagens, diagrama, tabelas etc.), orientando-se por roteiro escrito, planejando o tempo de fala e adequando a linguagem à situação comunicativa.",
+        "tema": "Oralidade",
+        "objDC": "Planejamento de texto oral\nExposição oral"
+      },
+      {
+        "id": "(EF35LP21)",
+        "desc": "Ler e compreender, de forma autônoma, textos literários de diferentes gêneros e extensões, inclusive aqueles sem ilustrações, estabelecendo preferências por gêneros, temas, autores.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Formação do leitor literário"
+      },
+      {
+        "id": "(EF35LP22)",
+        "desc": "Perceber diálogos em textos narrativos, observando o efeito de sentido de verbos de enunciação e, se for o caso, o uso de variedades linguísticas no discurso direto.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Formação do leitor literário/ Leitura multissemiótica"
+      },
+      {
+        "id": "(EF35LP23)",
+        "desc": "Apreciar poemas e outros textos versificados, observando rimas, aliterações e diferentes modos de divisão dos versos, estrofes e refrões e seu efeito de sentido.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Apreciação estética/Estilo"
+      },
+      {
+        "id": "(EF35LP24)",
+        "desc": "Identificar funções do texto dramático (escrito para ser encenado) e sua organização por meio de diálogos entre personagens e marcadores das falas das personagens e de cena.",
+        "tema": "Leitura/escuta (compartilhada e autônoma)",
+        "objDC": "Textos dramáticos"
+      },
+      {
+        "id": "(EF35LP25)",
+        "desc": "Criar narrativas ficcionais, com certa autonomia, utilizando detalhes descritivos, sequências de eventos e imagens apropriadas para sustentar o sentido do texto, e marcadores de tempo, espaço e de fala de personagens.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Escrita autônoma e compartilhada"
+      },
+      {
+        "id": "(EF35LP26)",
+        "desc": "Ler e compreender, com certa autonomia, narrativas ficcionais que apresentem cenários e personagens, observando os elementos da estrutura narrativa: enredo, tempo, espaço, personagens, narrador e a construção do discurso indireto e discurso direto.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Escrita autônoma e compartilhada"
+      },
+      {
+        "id": "(EF35LP27)",
+        "desc": "Ler e compreender, com certa autonomia, textos em versos, explorando rimas, sons e jogos de palavras, imagens poéticas (sentidos figurados) e recursos visuais e sonoros.",
+        "tema": "Produção de textos\n(escrita compartilhada e autônoma)",
+        "objDC": "Escrita autônoma"
+      },
+      {
+        "id": "(EF35LP28)",
+        "desc": "Declamar poemas, com entonação, postura e interpretação adequadas.",
+        "tema": "Oralidade",
+        "objDC": "Declamação"
+      },
+      {
+        "id": "(EF35LP29)",
+        "desc": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Formas de composição de narrativas"
+      },
+      {
+        "id": "(EF35LP30)",
+        "desc": "Diferenciar discurso indireto e discurso direto, determinando o efeito de sentido de verbos de enunciação e explicando o uso de variedades linguísticas no discurso direto, quando for o caso.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Discurso direto e indireto"
+      },
+      {
+        "id": "(EF35LP31)",
+        "desc": "Identificar, em textos versificados, efeitos de sentido decorrentes do uso de recursos rítmicos e sonoros e de metáforas.",
+        "tema": "Análise linguística/semiótica (Ortografização)",
+        "objDC": "Forma de composição de textos poéticos"
+      }
+    ]
+  }
+]

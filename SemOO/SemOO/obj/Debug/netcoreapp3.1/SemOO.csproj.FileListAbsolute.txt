@@ -1,0 +1,11 @@
+D:\CSharpProjects\SemOO\SemOO\bin\Debug\netcoreapp3.1\SemOO.exe
+D:\CSharpProjects\SemOO\SemOO\bin\Debug\netcoreapp3.1\SemOO.deps.json
+D:\CSharpProjects\SemOO\SemOO\bin\Debug\netcoreapp3.1\SemOO.runtimeconfig.json
+D:\CSharpProjects\SemOO\SemOO\bin\Debug\netcoreapp3.1\SemOO.runtimeconfig.dev.json
+D:\CSharpProjects\SemOO\SemOO\bin\Debug\netcoreapp3.1\SemOO.dll
+D:\CSharpProjects\SemOO\SemOO\bin\Debug\netcoreapp3.1\SemOO.pdb
+D:\CSharpProjects\SemOO\SemOO\obj\Debug\netcoreapp3.1\SemOO.csprojAssemblyReference.cache
+D:\CSharpProjects\SemOO\SemOO\obj\Debug\netcoreapp3.1\SemOO.AssemblyInfoInputs.cache
+D:\CSharpProjects\SemOO\SemOO\obj\Debug\netcoreapp3.1\SemOO.AssemblyInfo.cs
+D:\CSharpProjects\SemOO\SemOO\obj\Debug\netcoreapp3.1\SemOO.dll
+D:\CSharpProjects\SemOO\SemOO\obj\Debug\netcoreapp3.1\SemOO.pdb

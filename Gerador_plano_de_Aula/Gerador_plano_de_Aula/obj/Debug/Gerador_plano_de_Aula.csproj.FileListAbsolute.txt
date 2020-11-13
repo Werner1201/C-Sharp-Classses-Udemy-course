@@ -1,0 +1,12 @@
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\bin\Debug\Gerador_plano_de_Aula.exe.config
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\bin\Debug\Gerador_plano_de_Aula.exe
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\bin\Debug\Gerador_plano_de_Aula.pdb
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\bin\Debug\Newtonsoft.Json.dll
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\bin\Debug\Newtonsoft.Json.xml
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\obj\Debug\Gerador_plano_de_Aula.csproj.CopyComplete
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\obj\Debug\Gerador_plano_de_Aula.exe
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\obj\Debug\Gerador_plano_de_Aula.pdb
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\obj\Debug\Gerador_plano_de_Aula.csprojAssemblyReference.cache
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\obj\Debug\View.PlanoDeAula.resources
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\obj\Debug\Gerador_plano_de_Aula.csproj.GenerateResource.cache
+D:\CSharpProjects\Gerador_plano_de_Aula\Gerador_plano_de_Aula\obj\Debug\Gerador_plano_de_Aula.csproj.ResolveComReference.cache

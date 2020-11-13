@@ -1,0 +1,11 @@
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\bin\Debug\netcoreapp3.1\LambdaLINQ.exe
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\bin\Debug\netcoreapp3.1\LambdaLINQ.deps.json
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\bin\Debug\netcoreapp3.1\LambdaLINQ.runtimeconfig.json
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\bin\Debug\netcoreapp3.1\LambdaLINQ.runtimeconfig.dev.json
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\bin\Debug\netcoreapp3.1\LambdaLINQ.dll
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\bin\Debug\netcoreapp3.1\LambdaLINQ.pdb
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\obj\Debug\netcoreapp3.1\LambdaLINQ.csprojAssemblyReference.cache
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\obj\Debug\netcoreapp3.1\LambdaLINQ.AssemblyInfoInputs.cache
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\obj\Debug\netcoreapp3.1\LambdaLINQ.AssemblyInfo.cs
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\obj\Debug\netcoreapp3.1\LambdaLINQ.dll
+D:\CSharpProjects\LambdaLINQ\LambdaLINQ\obj\Debug\netcoreapp3.1\LambdaLINQ.pdb

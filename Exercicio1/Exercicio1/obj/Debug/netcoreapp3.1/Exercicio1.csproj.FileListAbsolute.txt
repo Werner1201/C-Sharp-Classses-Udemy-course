@@ -1,0 +1,11 @@
+D:\CSharpProjects\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.exe
+D:\CSharpProjects\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.deps.json
+D:\CSharpProjects\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.json
+D:\CSharpProjects\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+D:\CSharpProjects\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.dll
+D:\CSharpProjects\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.pdb
+D:\CSharpProjects\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csprojAssemblyReference.cache
+D:\CSharpProjects\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+D:\CSharpProjects\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+D:\CSharpProjects\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
+D:\CSharpProjects\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb

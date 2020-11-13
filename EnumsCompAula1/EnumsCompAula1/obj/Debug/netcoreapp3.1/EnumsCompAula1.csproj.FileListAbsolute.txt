@@ -1,0 +1,11 @@
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\obj\Debug\netcoreapp3.1\EnumsCompAula1.csprojAssemblyReference.cache
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\obj\Debug\netcoreapp3.1\EnumsCompAula1.AssemblyInfoInputs.cache
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\obj\Debug\netcoreapp3.1\EnumsCompAula1.AssemblyInfo.cs
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\bin\Debug\netcoreapp3.1\EnumsCompAula1.exe
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\bin\Debug\netcoreapp3.1\EnumsCompAula1.deps.json
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\bin\Debug\netcoreapp3.1\EnumsCompAula1.runtimeconfig.json
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\bin\Debug\netcoreapp3.1\EnumsCompAula1.runtimeconfig.dev.json
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\bin\Debug\netcoreapp3.1\EnumsCompAula1.dll
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\bin\Debug\netcoreapp3.1\EnumsCompAula1.pdb
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\obj\Debug\netcoreapp3.1\EnumsCompAula1.dll
+D:\CSharpProjects\EnumsCompAula1\EnumsCompAula1\obj\Debug\netcoreapp3.1\EnumsCompAula1.pdb

@@ -1,0 +1,11 @@
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\bin\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.exe
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\bin\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.deps.json
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\bin\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.runtimeconfig.json
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\bin\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.runtimeconfig.dev.json
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\bin\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.dll
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\bin\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.pdb
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\obj\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.csprojAssemblyReference.cache
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\obj\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.AssemblyInfoInputs.cache
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\obj\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.AssemblyInfo.cs
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\obj\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.dll
+D:\CSharpProjects\HerancaEPolimorfismo2\ExercicioFixacaoPoliEHer\obj\Debug\netcoreapp3.1\ExercicioFixacaoPoliEHer.pdb

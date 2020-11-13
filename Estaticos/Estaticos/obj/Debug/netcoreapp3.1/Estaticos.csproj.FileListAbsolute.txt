@@ -1,0 +1,11 @@
+D:\CSharpProjects\Estaticos\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.exe
+D:\CSharpProjects\Estaticos\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.deps.json
+D:\CSharpProjects\Estaticos\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.runtimeconfig.json
+D:\CSharpProjects\Estaticos\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.runtimeconfig.dev.json
+D:\CSharpProjects\Estaticos\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.dll
+D:\CSharpProjects\Estaticos\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.pdb
+D:\CSharpProjects\Estaticos\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.csprojAssemblyReference.cache
+D:\CSharpProjects\Estaticos\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.AssemblyInfoInputs.cache
+D:\CSharpProjects\Estaticos\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.AssemblyInfo.cs
+D:\CSharpProjects\Estaticos\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.dll
+D:\CSharpProjects\Estaticos\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.pdb

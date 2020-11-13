@@ -1,0 +1,11 @@
+D:\CSharpProjects\ComOO2\ComOO2\bin\Debug\netcoreapp3.1\ComOO2.exe
+D:\CSharpProjects\ComOO2\ComOO2\bin\Debug\netcoreapp3.1\ComOO2.deps.json
+D:\CSharpProjects\ComOO2\ComOO2\bin\Debug\netcoreapp3.1\ComOO2.runtimeconfig.json
+D:\CSharpProjects\ComOO2\ComOO2\bin\Debug\netcoreapp3.1\ComOO2.runtimeconfig.dev.json
+D:\CSharpProjects\ComOO2\ComOO2\bin\Debug\netcoreapp3.1\ComOO2.dll
+D:\CSharpProjects\ComOO2\ComOO2\bin\Debug\netcoreapp3.1\ComOO2.pdb
+D:\CSharpProjects\ComOO2\ComOO2\obj\Debug\netcoreapp3.1\ComOO2.csprojAssemblyReference.cache
+D:\CSharpProjects\ComOO2\ComOO2\obj\Debug\netcoreapp3.1\ComOO2.AssemblyInfoInputs.cache
+D:\CSharpProjects\ComOO2\ComOO2\obj\Debug\netcoreapp3.1\ComOO2.AssemblyInfo.cs
+D:\CSharpProjects\ComOO2\ComOO2\obj\Debug\netcoreapp3.1\ComOO2.dll
+D:\CSharpProjects\ComOO2\ComOO2\obj\Debug\netcoreapp3.1\ComOO2.pdb

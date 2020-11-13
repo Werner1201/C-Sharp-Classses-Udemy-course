@@ -1,0 +1,11 @@
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\bin\Debug\netcoreapp3.1\ComposicaoExercicio1.exe
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\bin\Debug\netcoreapp3.1\ComposicaoExercicio1.deps.json
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\bin\Debug\netcoreapp3.1\ComposicaoExercicio1.runtimeconfig.json
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\bin\Debug\netcoreapp3.1\ComposicaoExercicio1.runtimeconfig.dev.json
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\bin\Debug\netcoreapp3.1\ComposicaoExercicio1.dll
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\bin\Debug\netcoreapp3.1\ComposicaoExercicio1.pdb
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\obj\Debug\netcoreapp3.1\ComposicaoExercicio1.csprojAssemblyReference.cache
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\obj\Debug\netcoreapp3.1\ComposicaoExercicio1.AssemblyInfoInputs.cache
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\obj\Debug\netcoreapp3.1\ComposicaoExercicio1.AssemblyInfo.cs
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\obj\Debug\netcoreapp3.1\ComposicaoExercicio1.dll
+D:\CSharpProjects\ComposicaoExercicio1\ComposicaoExercicio1\obj\Debug\netcoreapp3.1\ComposicaoExercicio1.pdb

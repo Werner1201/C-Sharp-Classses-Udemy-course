@@ -1,0 +1,11 @@
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\bin\Debug\netcoreapp3.1\TratamentoDeExcecao1.exe
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\bin\Debug\netcoreapp3.1\TratamentoDeExcecao1.deps.json
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\bin\Debug\netcoreapp3.1\TratamentoDeExcecao1.runtimeconfig.json
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\bin\Debug\netcoreapp3.1\TratamentoDeExcecao1.runtimeconfig.dev.json
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\bin\Debug\netcoreapp3.1\TratamentoDeExcecao1.dll
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\bin\Debug\netcoreapp3.1\TratamentoDeExcecao1.pdb
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\obj\Debug\netcoreapp3.1\TratamentoDeExcecao1.csprojAssemblyReference.cache
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\obj\Debug\netcoreapp3.1\TratamentoDeExcecao1.AssemblyInfoInputs.cache
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\obj\Debug\netcoreapp3.1\TratamentoDeExcecao1.AssemblyInfo.cs
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\obj\Debug\netcoreapp3.1\TratamentoDeExcecao1.dll
+D:\CSharpProjects\TratamentoDeExcecao1\TratamentoDeExcecao1\obj\Debug\netcoreapp3.1\TratamentoDeExcecao1.pdb

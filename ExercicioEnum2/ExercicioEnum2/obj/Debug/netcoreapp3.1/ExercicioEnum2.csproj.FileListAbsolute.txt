@@ -1,0 +1,11 @@
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\bin\Debug\netcoreapp3.1\ExercicioEnum2.exe
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\bin\Debug\netcoreapp3.1\ExercicioEnum2.deps.json
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\bin\Debug\netcoreapp3.1\ExercicioEnum2.runtimeconfig.json
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\bin\Debug\netcoreapp3.1\ExercicioEnum2.runtimeconfig.dev.json
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\bin\Debug\netcoreapp3.1\ExercicioEnum2.dll
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\bin\Debug\netcoreapp3.1\ExercicioEnum2.pdb
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\obj\Debug\netcoreapp3.1\ExercicioEnum2.csprojAssemblyReference.cache
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\obj\Debug\netcoreapp3.1\ExercicioEnum2.AssemblyInfoInputs.cache
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\obj\Debug\netcoreapp3.1\ExercicioEnum2.AssemblyInfo.cs
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\obj\Debug\netcoreapp3.1\ExercicioEnum2.dll
+D:\CSharpProjects\ExercicioEnum2\ExercicioEnum2\obj\Debug\netcoreapp3.1\ExercicioEnum2.pdb

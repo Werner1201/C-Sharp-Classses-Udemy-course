@@ -1,0 +1,3 @@
+﻿  main.c
+D:\CSharpProjects\ProjetoEmC\ProjetoEmC\main.c(15,10): warning C4098: 'main': função 'void' retornando um valor
+  ProjetoEmC.vcxproj -> D:\CSharpProjects\ProjetoEmC\x64\Debug\ProjetoEmC.exe

@@ -1,0 +1,11 @@
+D:\CSharpProjects\Arquivos1\Arquivos1\bin\Debug\netcoreapp3.1\Arquivos1.exe
+D:\CSharpProjects\Arquivos1\Arquivos1\bin\Debug\netcoreapp3.1\Arquivos1.deps.json
+D:\CSharpProjects\Arquivos1\Arquivos1\bin\Debug\netcoreapp3.1\Arquivos1.runtimeconfig.json
+D:\CSharpProjects\Arquivos1\Arquivos1\bin\Debug\netcoreapp3.1\Arquivos1.runtimeconfig.dev.json
+D:\CSharpProjects\Arquivos1\Arquivos1\bin\Debug\netcoreapp3.1\Arquivos1.dll
+D:\CSharpProjects\Arquivos1\Arquivos1\bin\Debug\netcoreapp3.1\Arquivos1.pdb
+D:\CSharpProjects\Arquivos1\Arquivos1\obj\Debug\netcoreapp3.1\Arquivos1.csprojAssemblyReference.cache
+D:\CSharpProjects\Arquivos1\Arquivos1\obj\Debug\netcoreapp3.1\Arquivos1.AssemblyInfoInputs.cache
+D:\CSharpProjects\Arquivos1\Arquivos1\obj\Debug\netcoreapp3.1\Arquivos1.AssemblyInfo.cs
+D:\CSharpProjects\Arquivos1\Arquivos1\obj\Debug\netcoreapp3.1\Arquivos1.dll
+D:\CSharpProjects\Arquivos1\Arquivos1\obj\Debug\netcoreapp3.1\Arquivos1.pdb

@@ -1,0 +1,11 @@
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\netcoreapp3.1\ExercicioExcecoes.csprojAssemblyReference.cache
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\netcoreapp3.1\ExercicioExcecoes.AssemblyInfoInputs.cache
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\netcoreapp3.1\ExercicioExcecoes.AssemblyInfo.cs
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\netcoreapp3.1\ExercicioExcecoes.exe
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\netcoreapp3.1\ExercicioExcecoes.deps.json
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\netcoreapp3.1\ExercicioExcecoes.runtimeconfig.json
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\netcoreapp3.1\ExercicioExcecoes.runtimeconfig.dev.json
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\netcoreapp3.1\ExercicioExcecoes.dll
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\netcoreapp3.1\ExercicioExcecoes.pdb
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\netcoreapp3.1\ExercicioExcecoes.dll
+D:\CSharpProjects\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\netcoreapp3.1\ExercicioExcecoes.pdb

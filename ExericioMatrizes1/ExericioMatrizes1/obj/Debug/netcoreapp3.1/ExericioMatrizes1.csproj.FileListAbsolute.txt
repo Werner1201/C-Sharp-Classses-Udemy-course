@@ -1,0 +1,11 @@
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\bin\Debug\netcoreapp3.1\ExericioMatrizes1.exe
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\bin\Debug\netcoreapp3.1\ExericioMatrizes1.deps.json
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\bin\Debug\netcoreapp3.1\ExericioMatrizes1.runtimeconfig.json
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\bin\Debug\netcoreapp3.1\ExericioMatrizes1.runtimeconfig.dev.json
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\bin\Debug\netcoreapp3.1\ExericioMatrizes1.dll
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\bin\Debug\netcoreapp3.1\ExericioMatrizes1.pdb
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\obj\Debug\netcoreapp3.1\ExericioMatrizes1.csprojAssemblyReference.cache
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\obj\Debug\netcoreapp3.1\ExericioMatrizes1.AssemblyInfoInputs.cache
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\obj\Debug\netcoreapp3.1\ExericioMatrizes1.AssemblyInfo.cs
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\obj\Debug\netcoreapp3.1\ExericioMatrizes1.dll
+D:\CSharpProjects\ExericioMatrizes1\ExericioMatrizes1\obj\Debug\netcoreapp3.1\ExericioMatrizes1.pdb

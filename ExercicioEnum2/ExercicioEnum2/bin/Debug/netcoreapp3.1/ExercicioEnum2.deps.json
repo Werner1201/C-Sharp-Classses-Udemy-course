@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExercicioEnum2/1.0.0": {
+        "runtime": {
+          "ExercicioEnum2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioEnum2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

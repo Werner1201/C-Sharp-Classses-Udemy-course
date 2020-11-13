@@ -1,0 +1,10 @@
+D:\CSharpProjects\ExercicioSaidaCsharp\ExercicioSaidaCsharp\bin\Debug\netcoreapp3.1\ExercicioSaidaCsharp.exe
+D:\CSharpProjects\ExercicioSaidaCsharp\ExercicioSaidaCsharp\bin\Debug\netcoreapp3.1\ExercicioSaidaCsharp.deps.json
+D:\CSharpProjects\ExercicioSaidaCsharp\ExercicioSaidaCsharp\bin\Debug\netcoreapp3.1\ExercicioSaidaCsharp.runtimeconfig.json
+D:\CSharpProjects\ExercicioSaidaCsharp\ExercicioSaidaCsharp\bin\Debug\netcoreapp3.1\ExercicioSaidaCsharp.runtimeconfig.dev.json
+D:\CSharpProjects\ExercicioSaidaCsharp\ExercicioSaidaCsharp\bin\Debug\netcoreapp3.1\ExercicioSaidaCsharp.dll
+D:\CSharpProjects\ExercicioSaidaCsharp\ExercicioSaidaCsharp\bin\Debug\netcoreapp3.1\ExercicioSaidaCsharp.pdb
+D:\CSharpProjects\ExercicioSaidaCsharp\ExercicioSaidaCsharp\obj\Debug\netcoreapp3.1\ExercicioSaidaCsharp.AssemblyInfoInputs.cache
+D:\CSharpProjects\ExercicioSaidaCsharp\ExercicioSaidaCsharp\obj\Debug\netcoreapp3.1\ExercicioSaidaCsharp.AssemblyInfo.cs
+D:\CSharpProjects\ExercicioSaidaCsharp\ExercicioSaidaCsharp\obj\Debug\netcoreapp3.1\ExercicioSaidaCsharp.dll
+D:\CSharpProjects\ExercicioSaidaCsharp\ExercicioSaidaCsharp\obj\Debug\netcoreapp3.1\ExercicioSaidaCsharp.pdb
